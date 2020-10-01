@@ -8,6 +8,12 @@ h2 {
   color: #575ed8;
 }
 
+.header-3{
+  display : flex;
+   align-items : center;
+  font-family : sans-serif;
+}
+
 #mario-chat {
   max-width: 600px;
   margin: 30px auto;
